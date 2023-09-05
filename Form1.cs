@@ -4,6 +4,7 @@ namespace WinFormsApp1
     {
         public Form1()
         {
+        int a=1;
             InitializeComponent();
         }
     }
